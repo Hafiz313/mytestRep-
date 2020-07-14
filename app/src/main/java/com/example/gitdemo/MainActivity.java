@@ -3,6 +3,7 @@ package com.example.gitdemo;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 private String name;
@@ -15,6 +16,7 @@ private String name;
     }
 
     private void papu() {
+        Toast.makeText(this, "das", Toast.LENGTH_SHORT).show();
         
     }
 }
