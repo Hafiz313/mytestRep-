@@ -15,6 +15,7 @@ private String name;
     }
 
     private void papu() {
+        int x;
         
     }
 }
