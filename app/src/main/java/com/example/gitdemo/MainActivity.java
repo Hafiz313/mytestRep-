@@ -11,6 +11,17 @@ private String name;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         papu();
+        two();
+        one();
+
+    }
+
+    private void one() {
+        
+
+    }
+
+    private void two() {
 
     }
 
