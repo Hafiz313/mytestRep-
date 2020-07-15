@@ -18,6 +18,11 @@ private String name;
     private void papu() {
         Toast.makeText(this, "das", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "Bash", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Bash1", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Bash1", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Bash4", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "submaster", Toast.LENGTH_SHORT).show();
+
 
     }
 }
