@@ -17,6 +17,7 @@ private String name;
 
     private void papu() {
         Toast.makeText(this, "das", Toast.LENGTH_SHORT).show();
-        
+        Toast.makeText(this, "Bash", Toast.LENGTH_SHORT).show();
+
     }
 }
