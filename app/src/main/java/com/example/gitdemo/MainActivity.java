@@ -11,32 +11,15 @@ private String name;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toast.makeText(this, "stash", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "stash", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "stash", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "stash", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "stash", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "stash", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "stash", Toast.LENGTH_SHORT).show();
-        papu();
-        two();
-        one();
-
-    }
-
-    private void one() {
-        
-
-    }
-
-    private void two() {
-
-    }
+        Toast.makeText(this, "testStash", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "testStash", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "testStash", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "testStash", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "testStash", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "testStash", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "testStash", Toast.LENGTH_SHORT).show();
 
 
-    private void papu() {
-        int x;
-        
     }
 
 }
